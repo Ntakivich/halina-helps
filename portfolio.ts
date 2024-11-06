@@ -65,16 +65,11 @@ export const feedbacks: FeedbackType[] = [
 
 export const seoData: SEODataType = {
   title: "Halina Klimovich",
+  url: 'https://halina-helps.vercel.app',
   description: greetings.description,
   author: "Halina Klimovich",
   image: 'https://halina-helps.vercel.app/img/icons/common/personal.jpeg',
   keywords: [
-    "Halina",
-    "Halina Klimovich",
-    "Галина Климович",
-    "Легализация Гданьск",
-    "Легализация в Польше",
-    "Помочь иностранцам в Польше",
     "Помощь иностранцам в Польше",
     "ПМЖ в Польше",
     "Воссоединение с семьёй в Польше",
@@ -85,6 +80,10 @@ export const seoData: SEODataType = {
     "замене иностранных водительских прав на польские",
     "Документы в Польше",
     "Помощь в документах в Польше",
-    "Гданьск подача на ВНЖ"
+    "Гданьск подача на ВНЖ",
+    "Юридическая помощь иностранцам в Польше",
+    "запись в ужонд на падачу документов Гданьск",
+    "Услуги по легализации в Гданьске",
+    "Получение ВНЖ ПМЖ в Польше"
   ],
 };
