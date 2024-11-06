@@ -67,7 +67,7 @@ export const seoData: SEODataType = {
   title: "Halina Klimovich",
   description: greetings.description,
   author: "Halina Klimovich",
-  image: './img/icons/common/personal3.jpeg',
+  image: 'https://halina-helps.vercel.app/img/icons/common/personal.jpeg',
   keywords: [
     "Halina",
     "Halina Klimovich",
