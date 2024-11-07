@@ -1,7 +1,7 @@
 import React from "react";
 import { Col, Container, Row } from "reactstrap";
 import { skillsSection } from "../portfolio";
-const myImage = './img/icons/common/additional3.jpg'
+const myImage = './img/icons/common/additional4.jpg'
 
 const Skills = () => {
   return (

@@ -3,7 +3,7 @@ import { greetings } from "../portfolio";
 import { Container, Row, Col } from "reactstrap";
 import SocialLinks from "../components/SocialLinks";
 
-const myImage = './img/icons/common/personal.jpeg'
+const myImage = './img/icons/common/personal4.jpg'
 
 const Greetings = () => {
   useEffect(() => {
